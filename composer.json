@@ -1,0 +1,15 @@
+{
+    "name": "hecate/logistics-trace",
+    "description": "The Logistics-trace Helper Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "shawn",
+            "email": "xiaomaosheng@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },    
+    "autoload": {}
+}
